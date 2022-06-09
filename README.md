@@ -7,6 +7,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
+```
 ## Algorithm
 #step1:
 import pandas module.
@@ -74,16 +75,21 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 ```
 ## Output:
+![3 1](https://user-images.githubusercontent.com/94166007/172882697-840b6e46-56c6-415a-aee1-342b028c8989.jpeg)
 
-![3 1]
-![3 2]
-[3 3]
-![3,4]
-![3 5]
-![3 6]
-[3,7]
-![3 8]
+![3 2](https://user-images.githubusercontent.com/94166007/172882795-f3e6f110-7b8a-4a66-a351-04e24b2ed906.jpeg)
 
+![3 3](https://user-images.githubusercontent.com/94166007/172882846-f434f7e4-b602-42fa-92c6-a7b095eb1131.jpeg)
+
+![3 4](https://user-images.githubusercontent.com/94166007/172882889-4e2c0a92-312f-4965-afef-9f4fb325aa42.jpeg)
+
+![3 5](https://user-images.githubusercontent.com/94166007/172882909-86111997-e799-4bef-90cf-dd92c6c82b5e.jpeg)
+
+![3 6](https://user-images.githubusercontent.com/94166007/172883176-e0d894f5-0e74-4227-aeb6-918970bba688.jpeg)
+
+![3 7](https://user-images.githubusercontent.com/94166007/172883073-2d631155-5970-4ab5-84d5-ef5d22128ad4.jpeg)
+
+![3 8](https://user-images.githubusercontent.com/94166007/172883248-8e78128e-a8a1-4bd0-a9bd-609fddc2b697.jpeg)
 
 
 ## Result:
