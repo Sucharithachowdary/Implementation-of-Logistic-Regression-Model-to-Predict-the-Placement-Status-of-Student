@@ -31,7 +31,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by:k sucharitha
 RegisterNumber:212221240021
 */
-
+```
 import pandas as pd
 data = pd.read_csv("Placement_Data.csv")
 print(data.head())
@@ -72,19 +72,17 @@ classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
-
+```
 ## Output:
 
-![3 1](https://user-images.githubusercontent.com/94166007/172881326-f9438776-42c5-45ca-95d6-64fd31ccc650.jpeg)
-![3 2](https://user-images.githubusercontent.com/94166007/172881340-1b61bf1b-99a9-4995-9331!
-[3 3](https://user-images.githubusercontent.com/94166007/172881358-7aa0afd0-42ae-41d7-8574-e09a7b0b8663.jpeg)
--97d06e49b9ea.jpeg)
-![3,4](https://user-images.githubusercontent.com/94166007/172881415-7e032cce-96d0-4c62-82dd-6c5b0e94e3d9.jpeg)
-![3 5](https://user-images.githubusercontent.com/94166007/172881481-2779b0e4-df35-43db-b62b-da1e46a7909b.jpeg)
-![3 6](https://user-images.githubusercontent.com/94166007/172881553-0dad4d15-5ea9-4693-acf8-c5!
-[3,7](https://user-images.githubusercontent.com/94166007/172881604-ac317a75-4696-4ec7-9231-ee76d09d7896.jpeg)
-5a9cb92dac.jpeg)
-![3 8](https://user-images.githubusercontent.com/94166007/172881681-67818fe5-d16e-4e23-9191-30212c2c2069.jpeg)
+![3 1]
+![3 2]
+[3 3]
+![3,4]
+![3 5]
+![3 6]
+[3,7]
+![3 8]
 
 
 
